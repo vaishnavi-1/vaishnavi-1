@@ -1,4 +1,4 @@
-# [VAISHNAVI SAXENA](https://github.com/vaishnavi-1)
+# Vaishnavi Saxena
 ME'23 || I.E.T. Lucknow || Enthusiastic about Data Science
 
 ## Hi there 👋
