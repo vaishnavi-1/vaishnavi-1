@@ -1,16 +1,14 @@
-### Hi there 👋
+# [VAISHNAVI SAXENA](https://github.com/vaishnavi-1)
+ME'23 || I.E.T. Lucknow || Enthusiastic about Data Science
 
-<!--
-**vaishnavi-1/vaishnavi-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Python projects**.
+- 🌱 I’m currently learning **Deep Learning, data manipulation and data visualisation using python**.
+- 👯 I’m looking to collaborate on **Python and Deep Learning** projects.
+- 🤔 I’m looking for help with **algorithms used in ML, Deep Learning**.
+- 💬 Ask me about **Python, Convolutional Neural Networks**.
+- 📫 How to reach me: Contact me through [Linkedin](https://www.linkedin.com/in/vaishnavi-saxena-15122001/) or through Gmail (1900520400064@ietlucknow.ac.in).
+- 😄 Pronouns: She/Her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
