@@ -1,7 +1,7 @@
 # Vaishnavi Saxena
 ME'23 || I.E.T. Lucknow || Enthusiastic about Data Science
 
-## Hello World! 👋
+## Hey Folks! 👋 :eye:
 
 - 🔭 I’m currently working on **Python projects**.
 
