@@ -1,5 +1,5 @@
 # Vaishnavi Saxena
-ME'23 || I.E.T. Lucknow || Enthusiastic about Data Science
+EE'23 || I.E.T. Lucknow || Enthusiastic about Data Science
 
 ## Hey Folks! 👋 :eyes:
 
