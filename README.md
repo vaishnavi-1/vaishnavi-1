@@ -20,4 +20,3 @@ EE'23 || I.E.T. Lucknow || Enthusiastic about Data Science
 - 😄 Pronouns: She/Her
 
 
-[![Vaishnavi's github stats](https://github-readme-stats.vercel.app/api?username=vaishnavi-1&show_icons=true&theme=red)](https://github.com/vaishnavi-1)
