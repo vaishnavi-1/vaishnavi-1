@@ -5,7 +5,7 @@ EE'23 || I.E.T. Lucknow || Enthusiastic about Data Science
 
 - 🔭 I’m currently working on **Python projects**.
 
-- 🌱 I’m currently learning Deep Learning, data manipulation and Front End development.
+- 🌱 I’m currently learning Deep Learning, data manipulation and Natural language processing.
 
 - 👯 I’m looking to collaborate on **Python and Deep Learning** projects.
 
@@ -13,7 +13,7 @@ EE'23 || I.E.T. Lucknow || Enthusiastic about Data Science
 
 - 💬 Ask me about Python, Pandas, Keras, OpenCV, Convolutional Neural Networks.
 
-- 👩‍💻 **Technologies** : Python, C , OpenCV, CNN, Docker, HTML
+- 👩‍💻 **Technologies** : Python, C , OpenCV, CNN
 
 - 📫 How to reach me: Contact me through [Linkedin](https://www.linkedin.com/in/vaishnavi-saxena-15122001/) or through Gmail (1900520400064@ietlucknow.ac.in).
 
