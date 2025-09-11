@@ -13,7 +13,7 @@ Electrical engineer || I.E.T. Lucknow || Enthusiastic about Data Science
 
 - 💬 Ask me about Python, Pandas, Keras, OpenCV, Convolutional Neural Networks.
 
-- 👩‍💻 **Technologies** : Python, C , OpenCV, CNN
+- 👩‍💻 **Technologies** : Python, C , OpenCV, CNN, MATLAB, Simulink, CNN, Neural networks
 
 - 📫 How to reach me: Contact me through [Linkedin](https://www.linkedin.com/in/vaishnavi-saxena-15122001/) or through Gmail (1900520400064@ietlucknow.ac.in).
 
